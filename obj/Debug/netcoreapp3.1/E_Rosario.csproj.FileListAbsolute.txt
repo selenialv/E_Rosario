@@ -173,3 +173,5 @@ C:\Users\valeria\source\repos\E_Rosario\obj\Debug\netcoreapp3.1\Razor\Views\Shar
 C:\Users\valeria\source\repos\E_Rosario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Sidebar.cshtml.g.cs
 C:\Users\valeria\source\repos\E_Rosario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
 C:\Users\valeria\source\repos\E_Rosario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Nabvar.cshtml.g.cs
+C:\Users\Administrador\Source\Repos\E_Rosario\obj\Debug\netcoreapp3.1\E_Rosario.dll
+C:\Users\Administrador\Source\Repos\E_Rosario\obj\Debug\netcoreapp3.1\E_Rosario.pdb

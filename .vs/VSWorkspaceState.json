@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Migrations",
+    "\\Models",
+    "\\Views",
+    "\\wwwroot"
+  ],
+  "SelectedNode": "\\Migrations\\20201008171422_Initial-Create.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
